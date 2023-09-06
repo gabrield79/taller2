@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 70px;
+}
+
+p, li{
+    font-size: 30px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+  }
+
+h2{
+    font-size: 45px;
+    color: red;
+}
